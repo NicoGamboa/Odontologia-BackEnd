@@ -1,0 +1,67 @@
+[2022-09-19 16:16:34] [ INFO ] [OdontologoService:26] Cargando el odontologo matricula: null
+[2022-09-19 16:16:34] [ INFO ] [OdontologoService:29] Buscando odontologo con id: 1
+[2022-09-19 16:16:34] [ INFO ] [OdontologoService:23] Buscando todos los odontologos
+[2022-09-19 16:16:35] [ INFO ] [OdontologoService:50] Buscamos el odontologo con id: 1
+[2022-09-19 16:16:35] [ INFO ] [OdontologoService:29] Buscando odontologo con id: 1
+[2022-09-19 16:16:35] [ INFO ] [OdontologoService:53] Lo encontramos, entonces lo actualizamos
+[2022-09-19 16:16:35] [ INFO ] [OdontologoService:26] Cargando el odontologo matricula: null
+[2022-09-19 16:16:35] [ INFO ] [OdontologoService:29] Buscando odontologo con id: 1
+[2022-09-19 16:16:35] [ INFO ] [OdontologoService:38] Buscamos el odontologo con id: 1
+[2022-09-19 16:16:35] [ INFO ] [OdontologoService:29] Buscando odontologo con id: 1
+[2022-09-19 16:16:35] [ INFO ] [OdontologoService:41] Lo encontramos, entonces lo eliminamos
+[2022-09-19 16:16:35] [ INFO ] [OdontologoService:29] Buscando odontologo con id: 1
+[2022-09-19 16:18:22] [ INFO ] [OdontologoService:26] Cargando el odontologo matricula: GP1689
+[2022-09-19 16:18:22] [ INFO ] [OdontologoService:29] Buscando odontologo con id: 1
+[2022-09-19 16:18:22] [ INFO ] [OdontologoService:23] Buscando todos los odontologos
+[2022-09-19 16:18:22] [ INFO ] [OdontologoService:29] Buscando odontologo con id: 1
+[2022-09-19 16:18:22] [ INFO ] [OdontologoService:51] Lo encontramos, entonces lo actualizamos
+[2022-09-19 16:18:22] [ INFO ] [OdontologoService:26] Cargando el odontologo matricula: null
+[2022-09-19 16:18:22] [ INFO ] [OdontologoService:29] Buscando odontologo con id: 1
+[2022-09-19 16:18:22] [ INFO ] [OdontologoService:29] Buscando odontologo con id: 1
+[2022-09-19 16:18:22] [ INFO ] [OdontologoService:40] Lo encontramos, entonces lo eliminamos
+[2022-09-19 16:18:22] [ INFO ] [OdontologoService:29] Buscando odontologo con id: 1
+[2022-09-20 14:24:38] [ INFO ] [OdontologoService:26] Cargando el odontologo matricula: GP1689
+[2022-09-20 14:24:38] [ INFO ] [OdontologoService:29] Buscando odontologo con id: 1
+[2022-09-20 14:24:38] [ INFO ] [OdontologoService:23] Buscando todos los odontologos
+[2022-09-20 14:24:38] [ INFO ] [OdontologoService:29] Buscando odontologo con id: 1
+[2022-09-20 14:24:38] [ INFO ] [OdontologoService:51] Lo encontramos, entonces lo actualizamos
+[2022-09-20 14:24:38] [ INFO ] [OdontologoService:26] Cargando el odontologo matricula: GP1689
+[2022-09-20 14:24:38] [ INFO ] [OdontologoService:29] Buscando odontologo con id: 1
+[2022-09-20 14:24:38] [ INFO ] [OdontologoService:29] Buscando odontologo con id: 1
+[2022-09-20 14:24:38] [ INFO ] [OdontologoService:40] Lo encontramos, entonces lo eliminamos
+[2022-09-20 14:24:38] [ INFO ] [OdontologoService:29] Buscando odontologo con id: 1
+[2022-09-20 14:25:38] [ INFO ] [OdontologoService:23] Buscando todos los odontologos
+[2022-09-20 14:25:44] [ INFO ] [OdontologoService:26] Cargando el odontologo matricula: MCD123
+[2022-09-20 14:25:47] [ INFO ] [OdontologoService:23] Buscando todos los odontologos
+[2022-09-20 14:26:20] [ INFO ] [OdontologoService:23] Buscando todos los odontologos
+[2022-09-20 14:26:21] [ INFO ] [OdontologoService:23] Buscando todos los odontologos
+[2022-09-20 14:26:51] [ INFO ] [OdontologoService:26] Cargando el odontologo matricula: MCD123
+[2022-09-20 14:26:54] [ INFO ] [OdontologoService:23] Buscando todos los odontologos
+[2022-09-20 14:29:02] [ INFO ] [OdontologoService:26] Cargando el odontologo matricula: MCD123
+[2022-09-20 14:34:02] [ INFO ] [OdontologoService:26] Cargando el odontologo matricula: MCD123
+[2022-09-20 14:34:06] [ INFO ] [OdontologoService:23] Buscando todos los odontologos
+[2022-09-20 14:36:44] [ INFO ] [OdontologoService:23] Buscando todos los odontologos
+[2022-09-20 15:27:12] [ INFO ] [OdontologoService:26] Cargando el odontologo matricula: MCD123
+[2022-09-20 15:27:14] [ INFO ] [OdontologoService:23] Buscando todos los odontologos
+[2022-09-20 15:31:26] [ INFO ] [OdontologoService:23] Buscando todos los odontologos
+[2022-09-20 15:31:35] [ INFO ] [OdontologoService:26] Cargando el odontologo matricula: MCD123
+[2022-09-20 15:34:30] [ INFO ] [OdontologoService:26] Cargando el odontologo matricula: MCD123
+[2022-09-21 16:26:41] [ INFO ] [OdontologoService:26] Cargando el odontologo matricula: MCD123
+[2022-09-21 16:26:43] [ INFO ] [OdontologoService:23] Buscando todos los odontologos
+[2022-09-21 16:42:34] [ INFO ] [TurnoService:82] Buscamos todos turno
+[2022-09-21 16:43:24] [ INFO ] [TurnoService:82] Buscamos todos turno
+[2022-09-22 16:04:06] [ INFO ] [OdontologoService:26] Cargando el odontologo matricula: MCD123
+[2022-09-22 16:04:09] [ INFO ] [OdontologoService:23] Buscando todos los odontologos
+[2022-09-22 16:05:36] [ INFO ] [OdontologoService:23] Buscando todos los odontologos
+[2022-09-22 16:05:57] [ INFO ] [PacienteService:28] Registrando al paciente Gambino Nicolas
+[2022-09-22 16:06:00] [ INFO ] [OdontologoService:23] Buscando todos los odontologos
+[2022-09-22 16:17:40] [ INFO ] [OdontologoService:26] Cargando el odontologo matricula: MCD123
+[2022-09-22 16:17:42] [ INFO ] [PacienteService:41] Buscando todos los pacientes
+[2022-09-22 16:17:55] [ INFO ] [PacienteService:28] Registrando al paciente Gambino Nicolas
+[2022-09-22 16:25:26] [ INFO ] [TurnoService:35] Verificamos si el existen el odontologo y el paciente que se trata asignar
+[2022-09-22 16:25:26] [ INFO ] [OdontologoService:29] Buscando odontologo con id: 1
+[2022-09-22 16:25:27] [ INFO ] [PacienteService:32] Buscando paciente con id: 1
+[2022-09-22 16:25:27] [ INFO ] [TurnoService:38] El odontologo y el paciente existen, entoces cargamos el turno
+[2022-09-22 16:28:46] [ INFO ] [PacienteService:41] Buscando todos los pacientes
+[2022-09-22 16:29:03] [ INFO ] [PacienteService:28] Registrando al paciente Gambino Nicolas
+[2022-09-22 16:29:07] [ INFO ] [PacienteService:41] Buscando todos los pacientes
